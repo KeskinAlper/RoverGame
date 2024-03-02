@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74be73f8812f69b428bc4438010ec1f8, type: 3}
+  m_Name: AT4
+  m_EditorClassIdentifier: 
+  names: AT4
+  id: 2
+  isselectedgun: 1
+  prefabobj: {fileID: 0}
+  gunobj: {fileID: 3170869525973536740, guid: 061e2b0cc4eaa3445bf1db45f96a7e70, type: 3}
+  crosshairsideoffset: 12
+  crosshairheightoffset: -18
+  ammocount: 0
+  magazinecount: 0
+  maxammo: 1
+  maxmag: 4
+  reloading: 0
